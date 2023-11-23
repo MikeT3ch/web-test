@@ -1,0 +1,15 @@
+---
+// 1. La prop frontmatter da acceso al frontmatter y otros datos
+const { frontmatter } = Astro.props;
+---
+<html>
+  <head>
+    <!-- Agrega otro elemento Encabezado aquí, como estilos y etiquetas meta. -->
+    <title>{frontmatter.title}</title>
+  </head>
+  <body>
+    <!-- Agrega otros componentes de interfaz de usuario aquí, como encabezados y pies de página comunes. -->
+    <!-- 2. El HTML renderizado será pasado al slot por defecto. -->
+    <slot />
+  </body>
+</html>
