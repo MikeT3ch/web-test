@@ -104,7 +104,9 @@ Mercadolibre:
 # LENOVO IDEAPAD 3 + USB 32GB
 ## $ 991.94 ($4.038.181)
 <img width="500px" src="https://m.media-amazon.com/images/I/81XYk-cwdGL._AC_SL1500_.jpg" alt="">
+
 ### Descripción:
+
 | Item   | Desc    |
 |--------------- | --------------- |
 | SSD   | 1TB   |
@@ -113,3 +115,5 @@ Mercadolibre:
 | PROCESADOR   | Ryzen 5 5600H   |
 
 LENOVO IdeaPad Gaming 3 15.6" FHD 120Hz Laptop, teclado retroiluminado, Wi-Fi 5, Bluetooth, negro, Win 11 Pro, **tarjeta USB de 32 GB**
+
+Amazon: [Aquí](https://www.amazon.com/-/es/LENOVO-IdeaPad-Gaming-retroiluminado-Bluetooth/dp/B0CFL6ZFP5/ref=sr_1_5?crid=1FIFI2XGJ5PLV&keywords=portatil%2Bpc&qid=1700771323&refinements=p_n_graphics_type_browse-bin%3A14292273011&rnid=14292272011&s=pc&sprefix=Portatil%2Caps%2C204&sr=1-5&th=1) 
