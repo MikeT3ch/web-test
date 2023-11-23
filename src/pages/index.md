@@ -103,6 +103,7 @@ Mercadolibre:
 
 # LENOVO IDEAPAD 3 + USB 32GB
 ## $ 991.94 ($4.038.181)
+<img width="500px" src="https://m.media-amazon.com/images/I/81XYk-cwdGL._AC_SL1500_.jpg" alt="">
 ### Descripción:
 | Item   | Desc    |
 |--------------- | --------------- |
